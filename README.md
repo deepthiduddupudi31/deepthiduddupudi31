@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Mern Stack,DSA**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NEXTJS**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
