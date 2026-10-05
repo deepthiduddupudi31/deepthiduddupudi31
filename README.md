@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Mern stack**
+- 🔭 I’m currently working on **Devops**
 
-- 🌱 I’m currently learning Next js 
+- 🌱 I’m currently learning azure
 
 - 👯 I’m looking to collaborate on **open source projects**
 
